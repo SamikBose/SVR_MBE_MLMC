@@ -1,0 +1,2 @@
+sig_1b sig_2b sig_3b nu_1b nu_2b nu_3b Num_1b Num_2b Num_3b MC_iter kb t OH_max Pi_N subitr range
+100 10 10 0.5 0.5 0.5 12000 11000 24000 600000 0.001987 298 0.25 18 1 0.025
